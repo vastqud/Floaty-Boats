@@ -8,7 +8,7 @@ local Lobby = require(ReplicatedStorage.ClientModules.Ui.Lobby)
 local GunEffects = require(ReplicatedStorage.SharedModules.Gun)
 local GunStats = require(ReplicatedStorage.SharedModules.Guns)
 local CameraShake = require(ReplicatedStorage.CameraShaker)
-
+--yoyoyo
 local Player = Players.LocalPlayer
 local Character = Player.Character or Player.CharacterAdded:Wait()
 local PlayerGui = Player.PlayerGui
